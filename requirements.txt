@@ -1,8 +1,8 @@
 streamlit
-numpy
-pandas
+numpy==1.23.5
+pandas==1.5.3
 opencv-python-headless
-tensorflow
+tensorflow==2.13.0
 keras
 pillow
 scikit-learn
