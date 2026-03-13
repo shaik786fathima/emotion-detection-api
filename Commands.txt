@@ -1,0 +1,20 @@
+python -m venv venv
+(if not created first)
+
+
+
+
+venv\Scripts\activate
+
+python camera_emotion.py
+
+python spotify_player.py
+
+streamlit run app.py
+
+
+
+Others :
+pip install --upgrade pip
+
+pip install -r requirements.txt
